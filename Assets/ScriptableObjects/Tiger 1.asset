@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce26a9e5c3983a440803dcba834850ef, type: 3}
+  m_Name: Tiger 1
+  m_EditorClassIdentifier: 
+  AnimalID: 1
+  AnimalName: Cop
+  AnimalPicture: {fileID: -1146926262069543295, guid: d45864ea700119d41805317f3c57bf55, type: 3}
+  Description: Tigers are near extinction in the wild that they could become extinct
+    in the next 20 years. Their decline represents a crying visible failure to save
+    endangered species and protect healthy environment. Fewer than 3,500 wild tigers
+    live in 13 countries (Bangladesh, Bhutan, Cambodia, China, India, Indonesia,
+    Laos, Malaysia, Myanmar, Nepal, Russia, Thailand and Vietnam) occupying less
+    than 7% of their historical range, a dramatic plunge from an estimated 100,000
+    a century ago with 40,000 tigers in India alone. Cambodia, China, Vietnam, and
+    DPR Korea historically known to have stable populations are left with no evidence
+    of breeding populations.
+  AnimalObject: {fileID: 4220845534131940887, guid: bba8aeac5c5f5bf49b003bd821b5aa72, type: 3}

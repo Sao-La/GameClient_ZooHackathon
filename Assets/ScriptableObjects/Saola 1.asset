@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce26a9e5c3983a440803dcba834850ef, type: 3}
+  m_Name: Saola 1
+  m_EditorClassIdentifier: 
+  AnimalID: 3
+  AnimalName: Sao La
+  AnimalPicture: {fileID: -3579153090581979430, guid: e6f5263666c0fba4ea26fe4f71c6b5a0, type: 3}
+  Description: The saola is currently considered to be critically endangered. Its
+    restrictive habitat requirements and aversion to human proximity are likely to
+    endanger it through habitat loss and habitat fragmentation. Saola suffer losses
+    through local hunting and the illegal trade in furs, traditional medicines, and
+    for use of the meat in restaurants and food markets. They also sometimes get
+    caught in snares that have been set to catch animals raiding crops, such as wild
+    boar, sambar, and muntjac. More than 26,651 snares have so far been removed from
+    Saola habitats by conservation groups.
+  AnimalObject: {fileID: 7520546670527184014, guid: 82fc5736c069fe34ba490e8194d122b2, type: 3}
